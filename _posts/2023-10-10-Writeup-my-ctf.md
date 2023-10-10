@@ -9,8 +9,9 @@ image: /assets/images/hackerMachinesWriteUp.png
 In the following post, I present the write-up of the CTF (Capture The Flag) I have developed. Below, I also share a video that demonstrates the process of solving each of the challenges and the structure of the CTF. I hope you enjoy it.
 
 <p align="center">
-    <iframe width="560" height="315" src="https://youtu.be/yvZcSENe33Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yvZcSENe33Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
 
 ## Challenge 1: Becoming an Administrator
 
